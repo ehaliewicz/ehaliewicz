@@ -11,8 +11,12 @@ Here are some of the projects I've been working on recently.
 
 #### Slopes and 6dof camera controls in a 2.5D raycaster
 
-
 ![Raycasted slopes](raycaster_6dof.png)
+
+#### Real-time editing in the raycaster engine
+
+![Real-time editing](raycaster_editing.png)
+
 
 ## Voxel renderer (2023-2024)
 
