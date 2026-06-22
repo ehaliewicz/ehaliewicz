@@ -1,12 +1,20 @@
 ## Hello!
 
-### I like working on graphics, compilers, games and all kinds of other cool projects.
+### I like working on graphics, compilers, and games.
 
 ### Projects
-I also have a wiki page, but here are some of the cool projects I've been working on recently.
+Here are some of the projects I've been working on recently.
+
+## 6dof Raycaster engine (2025-current)
+
+### [Source code](https://github.com/ehaliewicz/raycaster)
+
+#### Slopes and 6dof camera controls in a 2.5D raycaster
 
 
-## Voxel renderer (2023-current)
+![Raycasted slopes](raycaster_6dof.png)
+
+## Voxel renderer (2023-2024)
 
 ### [Source code](https://github.com/ehaliewicz/voxel).
 
